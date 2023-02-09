@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/travisjeffery/ecs-deploy/client"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
+	"github.com/chainpass/ecs-deploy/client"
 )
 
 var (
